@@ -1,0 +1,4 @@
+name: PvPCombat
+version: 1.0
+main: me.yourname.pvpcombat.PvPCombat
+api-version: 1.21
